@@ -1,6 +1,6 @@
 {
   "name": "trycatch-alter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package that provides an alternative approach to writing multiple try-catch blocks,along with handling API responses in a backend program.",
   "main": "index.js",
   "scripts": {
