@@ -1,0 +1,22 @@
+{
+  "name": "trycatch-alter",
+  "version": "1.0.0",
+  "description": "A package that provides an alternative approach to writing multiple try-catch blocks,along with handling API responses in a backend program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2212vishal/trycatch-alter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2212vishal/trycatch-alter/issues"
+  },
+  "homepage": "https://github.com/2212vishal/trycatch-alter#readme"
+}
